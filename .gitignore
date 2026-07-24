@@ -1,1 +1,15 @@
+# Data / results artifacts
 *.h5ad
+*.csv
+*.png
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Matplotlib font cache
+.mplconfig/
